@@ -1,0 +1,11 @@
+faiss==1.5.3
+gradio==3.35.2
+langchain==0.0.212
+nltk==3.8.1
+numpy==1.23.5
+openai==0.27.4
+pdfminer==20191125
+python-dotenv==1.0.0
+torch==1.13.1
+transformers==4.30.2
+transformers==4.27.3
